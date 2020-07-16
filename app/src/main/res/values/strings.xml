@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Thầy Bói  Mù</string>
+    <string name="aiboide">Ai Bói Đêi</string>
+    <string name="tenbannoilen">Tên của bạn nói lên điều gì</string>
+    <string name="haynhapten">Hãy nhập tên của bạn và Xem</string>
+    <string name="queten">Quẻ Tên</string>
+    <string name="dexemnao">Để xem nào</string>
+    <string name="Xem">Xem</string>
+    <string name="hint">Nhập vào tên của bạn</string>
+</resources>
